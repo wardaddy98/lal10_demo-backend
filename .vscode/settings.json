@@ -19,5 +19,5 @@
 
   "eslint.validate": ["javascript"],
 
-  "cSpell.words": ["Gautam"]
+  "cSpell.words": ["Gautam", "todos"]
 }
